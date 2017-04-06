@@ -1,5 +1,7 @@
 # pobuild [![NPM version][npm-image]][npm-url]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/christophehurpeau/pob-build.svg)](https://greenkeeper.io/)
+
 Build and watch librairies
 
 [![Dependency ci Status][dependencyci-image]][dependencyci-url]
